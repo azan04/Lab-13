@@ -1,4 +1,14 @@
 Hello World!!!!!!!!!!!!!
+
+=== RESOLVED MERGE CONFLICT ===
+This is a change from FOLDER1
+Added by: Muhammad Azan (22i-1668)
+Modified on: December 2, 2025
+
+AND
+
 This is a DIFFERENT change from FOLDER2
 Modified by: Azan from folder2
 Changed on: Dec 2, 2025 - Second edit
+
+=== CONFLICT RESOLVED BY: Mohammad Azan ===
